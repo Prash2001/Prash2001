@@ -9,7 +9,6 @@
   May 2017 | Ahmednagar
 
 ## 🔗 Links
-- [GitHub](https://github.com/Prash2001)
 - [LinkedIn](https://www.linkedin.com/in/prashant-japkar-833654205/)
 - [LeetCode](https://leetcode.com/u/IroronoaI/)
 - [Coding Ninja](https://www.naukri.com/code360/profile/9260d5a6-6a92-4b67-b791-caa0469d6b2e)
